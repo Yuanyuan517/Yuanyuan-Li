@@ -1,5 +1,9 @@
 
-## Welcome to GitHub Pages
+## Professional Experience
+
+Researcher in optimization of machine and worker scheduling.  
+Keywords: Industry 4.0, metaheuristic, optimization, scheduling, programming.   
+March 2018 - Present
 
 You can use the [editor on GitHub](https://github.com/Yuanyuan517/Grow/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
