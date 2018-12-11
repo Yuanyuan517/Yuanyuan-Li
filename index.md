@@ -1,15 +1,17 @@
 
 ## Professional Experience
 
-**Researcher in scheduling optimization of machine and worker**   
+**Researcher in scheduling optimization of machines and workers**   
 *Keywords: Industry 4.0, metaheuristic, optimization, scheduling, programming*    
-March 2018 - Present
+ISMB, Italy, March 2018 - Present
+
+**Internship in the development of Risk Analysis module in synchro-modal supply chain**   
+*Keywords: Risk analysis, prediction modeling, database*    
+Fraunhofer IVI, Germany, April 2017 - November 2017
 
 You can use the [editor on GitHub](https://github.com/Yuanyuan517/Grow/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+## Education
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
