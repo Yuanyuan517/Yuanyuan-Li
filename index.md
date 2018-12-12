@@ -9,7 +9,6 @@ ISMB, Italy, March 2018 - Present
 *Keywords: Risk analysis, prediction modeling, database*    
 Fraunhofer IVI, Germany, April 2017 - November 2017
 
-You can use the [editor on GitHub](https://github.com/Yuanyuan517/Grow/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 ## Education
 
