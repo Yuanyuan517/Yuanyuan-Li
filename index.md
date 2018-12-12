@@ -6,7 +6,7 @@
 ISMB, Italy, March 2018 - Present
 
 **Internship in the development of Risk Analysis module in synchro-modal supply chain**   
-*Keywords: Risk analysis, prediction modeling, database*    
+*Keywords: Risk analysis, prediction modeling, database, open source*    
 Fraunhofer IVI, Germany, April 2017 - November 2017
 
 
