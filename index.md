@@ -23,6 +23,12 @@ Fraunhofer IVI, Germany, April 2017 - November 2017
 **Luoyang Normal University**  
 *Bachelor's degree, Network Engineering (Double Degree program)*  
 2011 - 2014 
+
+
+## Academic Projects  
+**Prediction Modeling of Risk Analysis in Synchromodal freight transportation**  
+[Github Link](https://github.com/POLITO-SYNCHRONET/SynchromodalOptimizationSimulator)  
+
 ```markdown
 Syntax highlighted code block
 
