@@ -13,8 +13,17 @@ You can use the [editor on GitHub](https://github.com/Yuanyuan517/Grow/edit/mast
 
 ## Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Politecnico di Torino**  
+*Mater's degree, Computer Software Engineering*  
+2015 - 2017  
 
+**Politecnico di Torino**  
+*Bachelor's degree, Computer Engineering (Double Degree program)*  
+2014 - 2015  
+
+**Luoyang Normal University**  
+*Bachelor's degree, Network Engineering (Double Degree program)*  
+2011 - 2014 
 ```markdown
 Syntax highlighted code block
 
