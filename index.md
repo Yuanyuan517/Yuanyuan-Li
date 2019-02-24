@@ -14,15 +14,11 @@ Fraunhofer IVI, Germany, April 2017 - November 2017
 
 **Politecnico di Torino**  
 *Mater's degree, Computer Software Engineering*  
-2015 - 2017  
+2017  
 
 **Politecnico di Torino**  
-*Bachelor's degree, Computer Engineering (Double Degree program)*  
-2014 - 2015  
-
-**Luoyang Normal University**  
-*Bachelor's degree, Network Engineering (Double Degree program)*  
-2011 - 2014 
+*Bachelor's degree, Computer Engineering*  
+2015  
 
 
 ## Academic Projects  
