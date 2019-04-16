@@ -29,3 +29,4 @@ According to my notes in optimization course on branch and bound, we can set the
 
 P.S. One colleague said one quiz about optimization: 4 people on one part with a light, they need to cross the bridge to go to another part. The constraint: two people in maximum per time to cross the bridge and they must take a light. The time needed for each person to cross are: 1 min, 2min, 5min and 10min, what is the minimum possible time?
 I didn't think thoroughly by considering only the quick person to take the light back each time then get the value of 19. The actual solution is to let 1min and 2min to cross first, and 1min to go to send light, then 10min and 5min cross together, 2min go back to send light and crossing with 1min together. So in optimization problem, we should not be greedy in considering incomplete aspects, dynamic programming may solve the problem better.
+*16/04/2019*
