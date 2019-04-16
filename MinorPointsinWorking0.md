@@ -161,3 +161,5 @@ private static long seedUniquifier() {
 
 Another review is about instance variables and instance methods in java:
 Instance variables and instance methods are what we have been calling "non-static variables" and "non-static subroutines." That is, they are variables and subroutines that are declared in a class but are not marked as "static." When a class is loaded into the computer, instance variables and methods do not become part of the class in memory; instead, they become part of each object that is constructed from that class, and each object gets its own copy of the instance variables and methods.
+
+*15/04/2019*
