@@ -50,7 +50,7 @@ Y. Li, S. Carabelli, E. Fadda, D. Manerba, R. Tadei, O. Terzo
 
 ## Scholarship
 
-Compagnia di San Paolo – Politecnico Project 
+**Compagnia di San Paolo – Politecnico Project** 
 September 2016, Polytechnic University of Turin, Italy   
 A scholarship based on the academic career performance, awarded 16 international students annually from either a Bachelor‘s or Master‘s program in Engineering or Architecture at the Polytechnic University of Turin   
 
