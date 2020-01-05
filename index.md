@@ -1,25 +1,50 @@
-
-## Professional Experience
-
-**Researcher in scheduling optimization of machines and workers**   
-*Keywords: Industry 4.0, metaheuristic, optimization, scheduling, programming*    
-ISMB, Italy, March 2018 - Present
-
-**Internship in the development of Risk Analysis module in synchro-modal supply chain**   
-*Keywords: Risk analysis, prediction modeling, database, open source*    
-Fraunhofer IVI, Germany, April 2017 - November 2017
-
-
 ## Education
 
-**Politecnico di Torino**  
+**Polytechnic University of Turin, Italy**
 *Mater's degree, Computer Software Engineering*  
-2017  
+2017
 
-**Politecnico di Torino**  
+**Polytechnic University of Turin, Italy**
 *Bachelor's degree, Computer Engineering*  
-2015  
+2015
 
+## Work Experience
+
+**Researcher**   
+*Keywords: Industry 4.0, metaheuristic, optimization, scheduling, programming*    
+March 2018 – Present, LINKS Foundation, Italy 
+Under Industry 4.0 context, optimizing production lines in plastic and rubber manufacturing through factory investigation, mathematical modeling, metaheuristic programming and performance analysis.
+
+**Research Intern**   
+*Keywords: Risk analysis, prediction modeling, database, open source*    
+April 2017 – October 2017, Fraunhofer Institute IVI, Germany
+In European 2020 project – SYNCHRO-NET, analyzed the potential risks in synchro-model transportation network through open source deployment, database development, feature extraction and Monte Carlo Rollout simulation.
+
+** Lab Assistant**  
+Polytechnic University of Turin, Italy
+September 2016 – January 2017
+Student-to-student tutoring in the laboratory sessions of database management system (DBMS) concerning technological characteristics and data analysis on commercial and open source products.
+
+## Publications
+
+September 2019 **Machine Learning application in Optimization: Job-Shop Scheduling in Industry 4.0**
+Y. Li, D. Manerba, E. Fadda, K. Goga, R. Tadei
+ODS 2019 (Oral presentation)
+
+August 2019 **Smart Scheduling in Industry 4.0**
+Y. Li, K. Goga, R. Tadei
+MIM 2019 (Oral presentation)
+
+April 2019 **Smart Scheduling Strategy for Lightweight Virtualized Resources Towards Green Computing** 
+S. Ciccia, A. Scionti, Y. Li, C. D’Amico, O. Terzo
+CISIS 2019
+
+February 2019 **Sustainable and De-stressed International Supply-chains Through the SYNCHRO-NET Approach**
+R. Giusti, C. Lorfida, Y. Li, D. Manerba, S. Musso, G. Perdoli, R. Tadei, S. Yuan. Sustainability 2019
+
+June 2018 **Risk Analysis for synchro-modal freight transportation: the SYNCHRO-NET approach**
+D. Holfeld, A. Simroth, Y. Li, D. Manerba, R. Tadei
+Odysseus 2018
 
 ## Academic Projects  
 **Prediction Modeling of Risk Analysis in Synchromodal freight transportation**  
