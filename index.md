@@ -31,15 +31,15 @@ Sept. 2019, ODS 2019 (Oral presentation)
 Y. Li, K. Goga, R. Tadei  
 Aug. 2019, MIM 2019 (Oral presentation)
 
-**Smart Scheduling Strategy for Lightweight Virtualized Resources Towards Green Computing**[Link](https://link.springer.com/chapter/10.1007/978-3-030-22354-0_28)   
+**[Smart Scheduling Strategy for Lightweight Virtualized Resources Towards Green Computing](https://link.springer.com/chapter/10.1007/978-3-030-22354-0_28)**  
 S. Ciccia, A. Scionti, Y. Li, C. D’Amico, O. Terzo  
 Apr. 2019, CISIS 2019
 
-**Sustainable and De-stressed International Supply-chains Through the SYNCHRO-NET Approach**[Link](https://www.mdpi.com/2071-1050/11/4/1083)  
+**[Sustainable and De-stressed International Supply-chains Through the SYNCHRO-NET Approach(https://www.mdpi.com/2071-1050/11/4/1083)]**  
 R. Giusti, C. Lorfida, Y. Li, D. Manerba, S. Musso, G. Perdoli, R. Tadei, S. Yuan  
 Feb. 2019, Sustainability 2019
 
-**Risk Analysis for synchro-modal freight transportation: the SYNCHRO-NET approach**[Link](https://www.researchgate.net/publication/325766304_Risk_Analysis_for_synchro-modal_freight_transportation_the_SYNCHRO-NET_approach)  
+**[Risk Analysis for synchro-modal freight transportation: the SYNCHRO-NET approach](https://www.researchgate.net/publication/325766304_Risk_Analysis_for_synchro-modal_freight_transportation_the_SYNCHRO-NET_approach)**  
 D. Holfeld, A. Simroth, Y. Li, D. Manerba, R. Tadei  
 June 2018, Odysseus 2018
 
