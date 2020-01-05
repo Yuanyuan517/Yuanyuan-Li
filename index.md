@@ -35,7 +35,7 @@ Aug. 2019, MIM 2019 (Oral presentation)
 S. Ciccia, A. Scionti, Y. Li, C. D’Amico, O. Terzo  
 Apr. 2019, CISIS 2019
 
-**[Sustainable and De-stressed International Supply-chains Through the SYNCHRO-NET Approach(https://www.mdpi.com/2071-1050/11/4/1083)]**  
+**[Sustainable and De-stressed International Supply-chains Through the SYNCHRO-NET Approach](https://www.mdpi.com/2071-1050/11/4/1083)**  
 R. Giusti, C. Lorfida, Y. Li, D. Manerba, S. Musso, G. Perdoli, R. Tadei, S. Yuan  
 Feb. 2019, Sustainability 2019
 
@@ -64,7 +64,7 @@ Developed a website interacting with a remote database system for managing user 
 
 October 2015 – January 2016 **Vehicle Routing Problem with Time Windows and Fixed Fleet Size**  
 Extended the functionalities of open source VRP toolkit (jspirit) by considering fixed fleet size and trying to balance the workload among vehicles.   
-```markdown
+
 ## Technical Skills  
 
 **Programming** Java, Python, OPL, C, SQL, HTML  
