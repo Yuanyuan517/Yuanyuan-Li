@@ -37,7 +37,7 @@ Apr. 2019, CISIS 2019
 
 **[Sustainable and De-stressed International Supply-chains Through the SYNCHRO-NET Approach](https://www.mdpi.com/2071-1050/11/4/1083)**  
 R. Giusti, C. Lorfida, Y. Li, D. Manerba, S. Musso, G. Perdoli, R. Tadei, S. Yuan  
-Feb. 2019, Sustainability 2019
+Feb. 2019, sustainability (MDPI) 
 
 **[Risk Analysis for synchro-modal freight transportation: the SYNCHRO-NET approach](https://www.researchgate.net/publication/325766304_Risk_Analysis_for_synchro-modal_freight_transportation_the_SYNCHRO-NET_approach)**  
 D. Holfeld, A. Simroth, Y. Li, D. Manerba, R. Tadei  
