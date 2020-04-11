@@ -12,13 +12,15 @@
 
 Mar. 2018 – Present, **Researcher**, LINKS Foundation, Italy     
 * *Keywords: Industry 4.0, metaheuristic, optimization, scheduling, programming*  
+*Supervisor: Roberto Tadei
 Under Industry 4.0 context, optimizing production lines in plastic and rubber manufacturing through factory investigation, mathematical modeling, metaheuristic (Genetic Algorithm and Tabu Search) programming and performance analysis.  
 
 * *Keywords: project management, presentation*   
 In EU 2020 project – LEXIS (building a platform at the confluence of HPC, cloud and Big Data), collecting leesons learned, organizing meetings and reporting to assess the project development status. 
 
 Apr. 2017 – Oct. 2017, **Research Intern**, Fraunhofer Institute IVI, Germany   
-*Keywords: Risk analysis, prediction modeling, database, open source*    
+*Keywords: Risk analysis, prediction modeling, database, open source*  
+*Supervisor: Axel Simroth, Denise Holfeld
 In EU 2020 project – SYNCHRO-NET (providing cost-effective, robust transport solutions), analyzed the potential risks in synchro-model transportation network through open source deployment, database development, feature extraction and Monte Carlo Rollout simulation.
 
 Sept. 2016 – Jan. 2017, **Lab Assistant**, Polytechnic University of Turin, Italy  
