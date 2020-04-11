@@ -10,7 +10,7 @@
 
 ## Work Experience
 
-Mar. 2018 – Present, **Researcher**, LINKS Foundation, Italy   
+Mar. 2018 – Present, **Researcher**, LINKS Foundation, Italy     
 *Keywords: Industry 4.0, metaheuristic, optimization, scheduling, programming*    
 * Under Industry 4.0 context, optimizing production lines in plastic and rubber manufacturing through factory investigation, mathematical modeling, metaheuristic programming and performance analysis.  
 *Keywords: HPC, project management, presentation*. 
