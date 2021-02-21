@@ -1,7 +1,7 @@
 ## Education
 
 **ESSEC Business School, France**  
-*PhD student, Operations and Data Analytics*    
+*PhD, Operations and Data Analytics*    
 2020 - Present
 
 **Polytechnic University of Turin, Italy**  
@@ -32,12 +32,12 @@ Student-to-student tutoring in the laboratory sessions of database management sy
 
 ## Publications
 
-**[Machine learning and optimization for production rescheduling in industry 4.0](https://link.springer.com/article/10.1007/s00170-020-05850-5)**  
-Y. Li, S. Carabelli, E. Fadda, D. Manerba, R. Tadei, O. Terzo
+**[Machine learning and optimization for production rescheduling in industry 4.0](https://link.springer.com/article/10.1007/s00170-020-05850-5)**    
+Y. Li, S. Carabelli, E. Fadda, D. Manerba, R. Tadei, O. Terzo    
 Oct. 2020, The International Journal of Advanced Manufacturing Technology
 
 **[Reinforcement Learning Algorithms for Online Single-Machine Scheduling](https://ieeexplore.ieee.org/abstract/document/9222933)**
-Y. Li, E. Fadda, D. Manerba, R. Tadei, O. Terzo
+Y. Li, E. Fadda, D. Manerba, R. Tadei, O. Terzo   
 Sept. 2020, 2020 15th Conference on Computer Science and Information Systems (FedCSIS)
 
 **Machine Learning application in Optimization: Job-Shop Scheduling in Industry 4.0**  
