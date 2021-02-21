@@ -36,7 +36,7 @@ Student-to-student tutoring in the laboratory sessions of database management sy
 Y. Li, S. Carabelli, E. Fadda, D. Manerba, R. Tadei, O. Terzo    
 Oct. 2020, The International Journal of Advanced Manufacturing Technology
 
-**[Reinforcement Learning Algorithms for Online Single-Machine Scheduling](https://ieeexplore.ieee.org/abstract/document/9222933)**
+**[Reinforcement Learning Algorithms for Online Single-Machine Scheduling](https://ieeexplore.ieee.org/abstract/document/9222933)**   
 Y. Li, E. Fadda, D. Manerba, R. Tadei, O. Terzo   
 Sept. 2020, 2020 15th Conference on Computer Science and Information Systems (FedCSIS)
 
