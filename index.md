@@ -1,5 +1,9 @@
 ## Education
 
+**ESSEC Business School, France**  
+*PhD student, Operations and Data Analytics*    
+2020 - Present
+
 **Polytechnic University of Turin, Italy**  
 *Mater's degree, Computer Software Engineering*    
 2017
@@ -10,7 +14,7 @@
 
 ## Work Experience
 
-Mar. 2018 – Present, **Researcher**, LINKS Foundation, Italy     
+Mar. 2018 – Aug. 2020, **Researcher**, LINKS Foundation, Italy     
 * *Keywords: Industry 4.0, metaheuristic, optimization, scheduling, programming*  
 *Supervisor: Roberto Tadei*  
 Under Industry 4.0 context, optimizing production lines in plastic and rubber manufacturing through factory investigation, mathematical modeling, metaheuristic (Genetic Algorithm and Tabu Search) programming and performance analysis.  
@@ -27,6 +31,14 @@ Sept. 2016 – Jan. 2017, **Lab Assistant**, Polytechnic University of Turin, It
 Student-to-student tutoring in the laboratory sessions of database management system (DBMS) concerning technological characteristics and data analysis on commercial and open source products.
 
 ## Publications
+
+**[Machine learning and optimization for production rescheduling in industry 4.0](https://link.springer.com/article/10.1007/s00170-020-05850-5)**  
+Y. Li, S. Carabelli, E. Fadda, D. Manerba, R. Tadei, O. Terzo
+Oct. 2020, The International Journal of Advanced Manufacturing Technology
+
+**[Reinforcement Learning Algorithms for Online Single-Machine Scheduling](https://ieeexplore.ieee.org/abstract/document/9222933)**
+Y. Li, E. Fadda, D. Manerba, R. Tadei, O. Terzo
+Sept. 2020, 2020 15th Conference on Computer Science and Information Systems (FedCSIS)
 
 **Machine Learning application in Optimization: Job-Shop Scheduling in Industry 4.0**  
 Y. Li, D. Manerba, E. Fadda, K. Goga, R. Tadei   
@@ -48,10 +60,6 @@ Feb. 2019, sustainability (MDPI)
 D. Holfeld, A. Simroth, Y. Li, D. Manerba, R. Tadei  
 June 2018, Odysseus 2018
 
-## Paper Under Review
-
-**Integration of Machine Learning and Optimization Techniques for Production Rescheduling in Industry 4.0**  
-Y. Li, S. Carabelli, E. Fadda, D. Manerba, R. Tadei, O. Terzo  
 
 ## Scholarship
 
