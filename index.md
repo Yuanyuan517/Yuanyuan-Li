@@ -62,12 +62,12 @@ June 2018, Odysseus 2018
 
 
 ## Working paper
-**[Reinforcement Learning Approaches for the Orienteering Problem with Stochastic and Dynamic Release Dates]
-Y. Li, C. Archetti, I. Ljubic
+**[Reinforcement Learning Approaches for the Orienteering Problem with Stochastic and Dynamic Release Dates]  
+Y. Li, C. Archetti, I. Ljubic  
 2022-Present
 
-**[Emerging Optimization Problems for Distribution in Same-day Delivery]
-Y. Li, C. Archetti, I. Ljubic
+**[Emerging Optimization Problems for Distribution in Same-day Delivery]  
+Y. Li, C. Archetti, I. Ljubic  
 2023-Present
 
 ## Scholarship
