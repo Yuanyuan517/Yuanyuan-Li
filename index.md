@@ -66,7 +66,7 @@ June 2018, Odysseus 2018
 Y. Li, C. Archetti, I. Ljubic  
 2022-Present
 
-**[Emerging Optimization Problems for Distribution in Same-day Delivery]**    
+**[Emerging Optimization Problems for Distribution in Same-day Delivery]**     
 Y. Li, C. Archetti, I. Ljubic  
 2023-Present
 
