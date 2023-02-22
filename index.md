@@ -74,18 +74,7 @@ Y. Li, C. Archetti, I. Ljubic
 
 **Compagnia di San Paolo – Politecnico Project** 
 September 2016, Polytechnic University of Turin, Italy   
-A scholarship based on the academic career performance, awarded 16 international students annually from either a Bachelor‘s or Master‘s program in Engineering or Architecture at the Polytechnic University of Turin   
-
-## Academic Projects  
-  
-May 2017 – July 2017 **Impact of Class Imbalances on Classification Performance**   
-Analyzed the performance of various sampling techniques on the data related to different degrees of imbalance.  
-
-December 2016 – January 2017 **Web Application Development**   
-Developed a website interacting with a remote database system for managing user feedback of purchasing items.  
-
-October 2015 – January 2016 **Vehicle Routing Problem with Time Windows and Fixed Fleet Size**  
-Extended the functionalities of open source VRP toolkit (jspirit) by considering fixed fleet size and trying to balance the workload among vehicles.   
+A scholarship based on the academic career performance, awarded 16 international students annually from either a Bachelor‘s or Master‘s program in Engineering or Architecture at the Polytechnic University of Turin     
 
 ## Technical Skills  
 
@@ -97,4 +86,5 @@ Extended the functionalities of open source VRP toolkit (jspirit) by considering
 
 **Chinese** Native Speaker  
 **English** Fluent  
-**Italian** Basic  
+**Italian** Basic
+**French** Basic
