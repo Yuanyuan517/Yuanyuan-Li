@@ -60,7 +60,7 @@ Feb. 2019, sustainability (MDPI)
 
 ## Presentations During PhD
 
-**Managing Startup Growth Before Facility Investments**
+**Managing Startup Growth Before Facility Investments**   
 IESEG-ESSEC-University of Cologne Operations Research Camp, Paris, France March 2024
 
 **Reinforcement Learning Approaches for the
@@ -71,8 +71,8 @@ EURO, Helsinki, Finland, July 2022}
 
 ## Presentations Before PhD
 
-**Machine Learning application in Optimization: Job-Shop Scheduling in Industry 4.0**
-September 2019, ODS, Genoa, Italy 
+**Machine Learning application in Optimization: Job-Shop Scheduling in Industry 4.0**   
+September 2019, ODS, Genoa, Italy    
 August 2019, MIM, Berlin, Germany
 
 **[Reinforcement Learning Algorithms for Online Single-Machine Scheduling](https://ieeexplore.ieee.org/abstract/document/9222933)**   
