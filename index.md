@@ -38,6 +38,7 @@ Student-to-student tutoring in the laboratory sessions of the database managemen
 ## Papers Under Revision and Working Paper
 **[Reinforcement Learning Approaches for the Orienteering Problem with Stochastic and Dynamic Release Dates]**    
 Y. Li, C. Archetti, I. Ljubic  
+Accepted at Transportation Science  
 
 **[Emerging Optimization Problems for Distribution in Same-day Delivery]**     
 Y. Li, C. Archetti, I. Ljubic  
