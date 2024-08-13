@@ -18,16 +18,16 @@ Feb. 2024 - Aug. 2024
 
 ## Publications During PhD
 
-**[Reinforcement Learning Approaches for the Orienteering Problem with Stochastic and Dynamic Release Dates]()**    
+**Reinforcement Learning Approaches for the Orienteering Problem with Stochastic and Dynamic Release Dates**    
 Y. Li, C. Archetti, I. Ljubic     
 July. 2024, Transportation Science
 
 ## Working Papers
 
-**[Emerging Optimization Problems for Distribution in Same-day Delivery]**     
+**Emerging Optimization Problems for Distribution in Same-day Delivery**     
 Y. Li, C. Archetti, I. Ljubic  
 
-**[Managing Start-up Growth Before Facility Investments]**     
+**Managing Start-up Growth Before Facility Investments**     
 with F. Papier and R. Mogre  
 
 
