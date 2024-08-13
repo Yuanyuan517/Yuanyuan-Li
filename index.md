@@ -52,8 +52,8 @@ Student Research Seminar at ESSEC, December 2023
 
 **Reinforcement Learning Approaches for the
 Orienteering Problem with Stochastic and Dynamic
-Release Dates**
-POM China, Zhejiang, China, July 2023
+Release Dates**  
+POM China, Zhejiang, China, July 2023  
 EURO, Helsinki, Finland, July 2022  
 Student Research Seminar at ESSEC, April 2022     
 
