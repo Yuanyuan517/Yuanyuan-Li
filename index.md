@@ -14,22 +14,32 @@ Feb. 2024 - Aug. 2024
 
 **Polytechnic University of Turin, Italy**  
 *Bachelor's degree, Computer Engineering*    
-2015
+2015  
+
+## Research Interests  
+Sequential decision-making problems applied in various applications, such as in Transportation and Startup Operations.  
+
+## Methodologies  
+Reinforcement Learning/Approximate Dynamic Programming, Integer Programming, Metaheuristics   
 
 ## Publications During PhD
 
 **Reinforcement Learning Approaches for the Orienteering Problem with Stochastic and Dynamic Release Dates**    
-Y. Li, C. Archetti, I. Ljubic     
+Yuanyuan Li, Claudia Archetti, Ivana Ljubic       
 July. 2024, Transportation Science
 
 ## Working Papers
 
 **Emerging Optimization Problems for Distribution in Same-day Delivery**     
-Y. Li, C. Archetti, I. Ljubic  
+Yuanyuan Li, Claudia Archetti, Ivana Ljubic    
 
 **Managing Start-up Growth Before Facility Investments**     
-with F. Papier and R. Mogre  
+with Felix Papier and Riccardo Mogre    
 
+## Work In Progress  
+
+**Same-day Delivery with Pickup Stations**     
+with Geoffrey Chua and Claudia Archetti     
 
 ## Publications Before PhD
 
