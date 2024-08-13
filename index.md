@@ -56,7 +56,7 @@ Feb. 2019, sustainability (MDPI)
 ## Presentations During PhD
 
 **Managing Startup Growth Before Facility Investments**
-POM, Minneapolis, United States, April 2024
+POM, Minneapolis, United States, April 2024  
 IESEG-ESSEC-University of Cologne Operations Research Camp, Paris, France, March 2024
 Student Research Seminar at ESSEC, December 2023  
 
@@ -69,7 +69,7 @@ Student Research Seminar at ESSEC, April 2022
 
 ## Presentations Before PhD
 
-**Machine Learning application in Optimization: Job-Shop Scheduling in Industry 4.0**
+**Machine Learning application in Optimization: Job-Shop Scheduling in Industry 4.0**  
 September 2019, ODS, Genoa, Italy 
 August 2019, MIM, Berlin, Germany
 
