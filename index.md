@@ -9,36 +9,20 @@ Feb. 2024 - Aug. 2024
 2020 - Present
 
 **Polytechnic University of Turin, Italy**  
-*Mater's degree, Computer Software Engineering*    
+*Master's degree, Software Engineering*    
 2017
 
 **Polytechnic University of Turin, Italy**  
 *Bachelor's degree, Computer Engineering*    
 2015
 
-## Work Experience
+## Publications During PhD
 
-Mar. 2018 – Aug. 2020, **Researcher**, LINKS Foundation, Italy     
-* *Keywords: Industry 4.0, metaheuristic, optimization, scheduling, programming*  
-*Supervisor: Roberto Tadei*  
-Under Industry 4.0 context, optimizing production lines in plastic and rubber manufacturing through factory investigation, mathematical modeling, metaheuristic (Genetic Algorithm and Tabu Search) programming, and performance analysis.  
+**[Reinforcement Learning Approaches for the Orienteering Problem with Stochastic and Dynamic Release Dates]()**    
+Y. Li, C. Archetti, I. Ljubic     
+July. 2024, Transportation Science
 
-* *Keywords: project management, presentation*   
-In the EU 2020 project – LEXIS (building a platform at the confluence of HPC, cloud, and Big Data), collecting lessons learned, organizing meetings, and reporting to assess the project development status. 
-
-Apr. 2017 – Oct. 2017, **Research Intern**, Fraunhofer Institute IVI, Germany   
-*Keywords: Risk analysis, prediction modeling, database, open source*  
-*Supervisor: Axel Simroth, Denise Holfeld*  
-In the EU 2020 project – SYNCHRO-NET (providing cost-effective, robust transport solutions), analyzed the potential risks in synchro-model transportation network through open source deployment, database development, feature extraction, and Monte Carlo Rollout simulation.
-
-Sept. 2016 – Jan. 2017, **Lab Assistant**, Polytechnic University of Turin, Italy  
-Student-to-student tutoring in the laboratory sessions of the database management system (DBMS) concerning technological characteristics and data analysis on commercial and open source products.
-
-
-## Papers Under Revision and Working Paper
-**[Reinforcement Learning Approaches for the Orienteering Problem with Stochastic and Dynamic Release Dates]**    
-Y. Li, C. Archetti, I. Ljubic  
-Accepted at Transportation Science  
+## Working Papers
 
 **[Emerging Optimization Problems for Distribution in Same-day Delivery]**     
 Y. Li, C. Archetti, I. Ljubic  
@@ -62,13 +46,16 @@ Feb. 2019, sustainability (MDPI)
 ## Presentations During PhD
 
 **Managing Startup Growth Before Facility Investments**
-IESEG-ESSEC-University of Cologne Operations Research Camp, Paris, France March 2024
+POM, Minneapolis, United States, April 2024
+IESEG-ESSEC-University of Cologne Operations Research Camp, Paris, France, March 2024
+Student Research Seminar at ESSEC, December 2023  
 
 **Reinforcement Learning Approaches for the
 Orienteering Problem with Stochastic and Dynamic
 Release Dates**
 POM China, Zhejiang, China, July 2023
-EURO, Helsinki, Finland, July 2022}
+EURO, Helsinki, Finland, July 2022
+Student Research Seminar at ESSEC, April 2022  
 
 ## Presentations Before PhD
 
@@ -84,6 +71,24 @@ Sept. 2020, 2020 15th Conference on Computer Science and Information Systems (Fe
 D. Holfeld, A. Simroth, Y. Li, D. Manerba, R. Tadei  
 June 2018, Odysseus 2018
 
+## Work Experience
+
+Mar. 2018 – Aug. 2020, **Researcher**, LINKS Foundation, Italy     
+* *Keywords: Industry 4.0, metaheuristic, optimization, scheduling, programming*  
+*Supervisor: Roberto Tadei*  
+Under Industry 4.0 context, optimizing production lines in plastic and rubber manufacturing through factory investigation, mathematical modeling, metaheuristic (Genetic Algorithm and Tabu Search) programming, and performance analysis.  
+
+* *Keywords: project management, presentation*   
+In the EU 2020 project – LEXIS (building a platform at the confluence of HPC, cloud, and Big Data), collecting lessons learned, organizing meetings, and reporting to assess the project development status. 
+
+Apr. 2017 – Oct. 2017, **Research Intern**, Fraunhofer Institute IVI, Germany   
+*Keywords: Risk analysis, prediction modeling, database, open source*  
+*Supervisor: Axel Simroth, Denise Holfeld*  
+In the EU 2020 project – SYNCHRO-NET (providing cost-effective, robust transport solutions), analyzed the potential risks in synchro-model transportation network through open source deployment, database development, feature extraction, and Monte Carlo Rollout simulation.
+
+Sept. 2016 – Jan. 2017, **Lab Assistant**, Polytechnic University of Turin, Italy  
+Student-to-student tutoring in the laboratory sessions of the database management system (DBMS) concerning technological characteristics and data analysis on commercial and open source products.
+
 ## Scholarship
 
 **Compagnia di San Paolo – Politecnico Project** 
@@ -93,7 +98,7 @@ A scholarship based on the academic career performance, awarded 16 international
 ## Technical Skills  
 
 **Programming** Java, Python, OPL, C, SQL, HTML  
-**Software** CPLEX, Eclipse, Mysql  
+**Software** CPLEX, Gurobi, Eclipse, Mysql  
 **Operating System** Windows, MacOS, Linux   
 
 ## Languages  
