@@ -17,10 +17,10 @@ Feb. 2024 - Aug. 2024
 2015  
 
 ## Research Interests  
-Sequential decision-making problems applied in various applications, such as in Transportation and Startup Operations.  
+Sequential decision-making problems applied in various applications, such as in Transportation and Startup Operations; combinatorial optimization  
 
 ## Methodologies  
-Reinforcement Learning/Approximate Dynamic Programming, Integer Programming, Metaheuristics   
+Reinforcement Learning/Approximate Dynamic Programming; Integer Programming; Metaheuristics   
 
 ## Publications During PhD
 
@@ -55,15 +55,15 @@ Feb. 2019, sustainability (MDPI)
 
 ## Presentations During PhD
 
-**Managing Startup Growth Before Facility Investments**
-POM, Minneapolis, United States, April 2024  
+**Managing Startup Growth Before Facility Investments**  
+POM, Minneapolis, United States, April 2024    
 IESEG-ESSEC-University of Cologne Operations Research Camp, Paris, France, March 2024
 Student Research Seminar at ESSEC, December 2023  
 
 **Reinforcement Learning Approaches for the
 Orienteering Problem with Stochastic and Dynamic
-Release Dates**  
-POM China, Zhejiang, China, July 2023  
+Release Dates**    
+POM China, Zhejiang, China, July 2023    
 EURO, Helsinki, Finland, July 2022  
 Student Research Seminar at ESSEC, April 2022     
 
