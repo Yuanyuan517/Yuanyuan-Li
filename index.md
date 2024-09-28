@@ -17,8 +17,8 @@ Feb. 2024 - Aug. 2024
 2015  
 
 ## Research Interests  
-Methodologies:  optimization techniques for addressing sequential decision-making challenges and large-scale optimization problems  
-Applications: last-mile delivery and startup operations  
+*Methodologies*:  optimization techniques for addressing sequential decision-making challenges and large-scale optimization problems  
+*Applications*: last-mile delivery and startup operations  
 
 ## Publications During PhD
 
