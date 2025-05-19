@@ -22,14 +22,15 @@ Feb. 2024 - Aug. 2024
 
 ## Publications During PhD
 
+**Emerging Optimization Problems for Distribution in Same-day Delivery**     
+Yuanyuan Li, Claudia Archetti, Ivana Ljubic  
+May 2025, Computers and Operations Research  
+
 **Reinforcement Learning Approaches for the Orienteering Problem with Stochastic and Dynamic Release Dates**    
 Yuanyuan Li, Claudia Archetti, Ivana Ljubic       
-July. 2024, Transportation Science
+July 2024, Transportation Science
 
-## Working Papers
-
-**Emerging Optimization Problems for Distribution in Same-day Delivery**     
-Yuanyuan Li, Claudia Archetti, Ivana Ljubic    
+## Working Papers 
 
 **Managing Start-up Growth Before Facility Investments**     
 with Felix Papier and Riccardo Mogre    
@@ -48,13 +49,14 @@ Oct. 2020, The International Journal of Advanced Manufacturing Technology
 
 **[Sustainable and De-stressed International Supply-chains Through the SYNCHRO-NET Approach](https://www.mdpi.com/2071-1050/11/4/1083)**  
 R. Giusti, C. Lorfida, Y. Li, D. Manerba, S. Musso, G. Perdoli, R. Tadei, S. Yuan  
-Feb. 2019, sustainability (MDPI) 
+Feb. 2019, Sustainability (MDPI) 
 
 
 ## Presentations During PhD
 
 **Managing Startup Growth Before Facility Investments**  
-POM, Minneapolis, United States, April 2024    
+INFORMS Annual Meeting, Seattle, United States, October 2024  
+POMS, Minneapolis, United States, April 2024    
 IESEG-ESSEC-University of Cologne Operations Research Camp, Paris, France, March 2024
 Student Research Seminar at ESSEC, December 2023  
 
@@ -84,7 +86,7 @@ June 2018, Odysseus 2018
 Mar. 2018 – Aug. 2020, **Researcher**, LINKS Foundation, Italy     
 * *Keywords: Industry 4.0, metaheuristic, optimization, scheduling, programming*  
 *Supervisor: Roberto Tadei*  
-Under Industry 4.0 context, optimizing production lines in plastic and rubber manufacturing through factory investigation, mathematical modeling, metaheuristic (Genetic Algorithm and Tabu Search) programming, and performance analysis.  
+Under the Industry 4.0 context, optimizing plastic and rubber manufacturing production lines through factory investigation, mathematical modeling, metaheuristic (Genetic Algorithm and Tabu Search) programming, and performance analysis.  
 
 * *Keywords: project management, presentation*   
 In the EU 2020 project – LEXIS (building a platform at the confluence of HPC, cloud, and Big Data), collecting lessons learned, organizing meetings, and reporting to assess the project development status. 
@@ -101,12 +103,12 @@ Student-to-student tutoring in the laboratory sessions of the database managemen
 
 **Compagnia di San Paolo – Politecnico Project** 
 September 2016, Polytechnic University of Turin, Italy   
-A scholarship based on the academic career performance, awarded 16 international students annually from either a Bachelor‘s or Master‘s program in Engineering or Architecture at the Polytechnic University of Turin     
+A scholarship based on academic career performance, awarded to 16 international students annually from either a Bachelor‘s or Master‘s program in Engineering or Architecture at the Polytechnic University of Turin     
 
 ## Technical Skills  
 
 **Programming** Java, Python, OPL, C, SQL, HTML  
-**Software** CPLEX, Gurobi, Eclipse, Mysql  
+**Software** CPLEX, Gurobi, Eclipse, MySQL  
 **Operating System** Windows, MacOS, Linux   
 
 ## Languages  
