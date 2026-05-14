@@ -1,8 +1,9 @@
-## Education
-
+## Academic Positions
 **HEC Montreal, GERAD, Canada**  
-*Postdoc, advised by Jean-François Cordeau, Yossiri Adulyasak, and Emma Frejinger*    
-Sept. 2025 - Present  
+*Postdoctoral Researcher, advised by Jean-François Cordeau, Yossiri Adulyasak, and Emma Frejinger*    
+Sept. 2025 - Present 
+
+## Education 
 
 **ESSEC Business School, France**  
 *PhD, Operations Research and Management, advised by Claudia Archetti and Ivana Ljubic*  
