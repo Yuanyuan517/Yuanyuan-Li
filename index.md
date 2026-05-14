@@ -1,12 +1,16 @@
 ## Education
 
-**Nanyang Technological University, Singapore**  
-*Visiting PhD at Nanyang Business School*    
-Feb. 2024 - Aug. 2024
+**HEC Montreal, GERAD, Canada**  
+*Postdoc*    
+Sept. 2025 - Present  
 
 **ESSEC Business School, France**  
 *PhD, Operations Research and Management*    
-2020 - Present
+Aug. 2020 - Jul. 2025  
+
+**Nanyang Technological University, Singapore**  
+*Visiting PhD at Nanyang Business School*    
+Feb. 2024 - Aug. 2024  
 
 **Polytechnic University of Turin, Italy**  
 *Master's degree, Software Engineering*    
@@ -32,8 +36,8 @@ July 2024, Transportation Science
 
 ## Working Papers 
 
-**Managing Start-up Growth Before Facility Investments**     
-with Felix Papier and Riccardo Mogre    
+**Sprint or Walk? Managing Start-up Growth Before Facility Investments**     
+Yuanyuan Li, Riccardo Mogre, Felix Papier   
 
 ## Work In Progress  
 
@@ -54,7 +58,8 @@ Feb. 2019, Sustainability (MDPI)
 
 ## Presentations During PhD
 
-**Managing Startup Growth Before Facility Investments**  
+**Sprint or Walk? Managing Startup Growth Before Facility Investments**  
+USTC, Hefei, China, August 2025
 INFORMS Annual Meeting, Seattle, United States, October 2024  
 POMS, Minneapolis, United States, April 2024    
 IESEG-ESSEC-University of Cologne Operations Research Camp, Paris, France, March 2024
