@@ -22,7 +22,7 @@ Feb. 2024 - Aug. 2024
 2015  
 
 ## Research Interests  
-I develop optimization and learning methods for sequential decision-making under uncertainty, particularly in settings with customer behavior, operational constraints, and large state-action spaces. My current applications include same-day delivery, experiential service, and startup operations.    
+I develop optimization and learning methods for sequential decision-making under uncertainty, particularly in settings with customer behavior, operational constraints, and large state-action spaces. My current applications include same-day delivery,  entrepreneurial operations, and experiential service.    
 
 ## Publications During PhD
 
@@ -36,7 +36,7 @@ July 2024, Transportation Science
 
 ## Working Papers 
 
-**Sprint or Walk? Managing Start-up Growth Before Facility Investments**     
+**[Sprint or Walk? Managing Start-up Growth Before Facility Investments](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6761740)**     
 Yuanyuan Li, Riccardo Mogre, Felix Papier   
 
 ## Work In Progress  
