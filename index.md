@@ -1,11 +1,11 @@
 ## Education
 
 **HEC Montreal, GERAD, Canada**  
-*Postdoc*    
+*Postdoc, advised by Jean-François Cordeau, Yossiri Adulyasak, and Emma Frejinger*    
 Sept. 2025 - Present  
 
 **ESSEC Business School, France**  
-*PhD, Operations Research and Management*    
+*PhD, Operations Research and Management, advised by Claudia Archetti and Ivana Ljubic*  
 Aug. 2020 - Jul. 2025  
 
 **Nanyang Technological University, Singapore**  
@@ -21,8 +21,7 @@ Feb. 2024 - Aug. 2024
 2015  
 
 ## Research Interests  
-*Methodologies*:  optimization techniques for addressing sequential decision-making challenges and large-scale optimization problems  
-*Applications*: last-mile delivery and startup operations  
+I develop optimization and learning methods for sequential decision-making under uncertainty, particularly in settings with customer behavior, operational constraints, and large state-action spaces. My current applications include same-day delivery, experiential service, and startup operations.    
 
 ## Publications During PhD
 
