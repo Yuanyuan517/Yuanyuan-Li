@@ -6,7 +6,7 @@ Sept. 2025 - Present
 ## Education 
 
 **ESSEC Business School, France**  
-*PhD, Operations Research and Management, advised by Claudia Archetti and Ivana Ljubic*  
+*PhD, Operations Research and Management, advised by Claudia Archetti, Ivana Ljubic, and Felix Papier*  
 Aug. 2020 - Jul. 2025  
 
 **Nanyang Technological University, Singapore**  
