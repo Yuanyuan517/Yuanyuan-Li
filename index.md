@@ -1,124 +1,14 @@
-## Academic Positions
-**HEC Montreal, GERAD, Canada**  
-*Postdoctoral Researcher, advised by Jean-François Cordeau, Yossiri Adulyasak, and Emma Frejinger*    
-Sept. 2025 - Present 
+---
+layout: default
+title: Yuanyuan Li
+---
 
-## Education 
+<script>
+  window.location.replace("https://yuanyuan517.github.io/");
+</script>
 
-**ESSEC Business School, France**  
-*PhD, Operations Research and Management, advised by Claudia Archetti, Ivana Ljubic, and Felix Papier*  
-Aug. 2020 - Jul. 2025  
+# Website moved
 
-**Nanyang Technological University, Singapore**  
-*Visiting PhD at Nanyang Business School*    
-Feb. 2024 - Aug. 2024  
+My current website is available at:
 
-**Polytechnic University of Turin, Italy**  
-*Master's degree, Software Engineering*    
-2017
-
-**Polytechnic University of Turin, Italy**  
-*Bachelor's degree, Computer Engineering*    
-2015  
-
-## Research Interests  
-I develop optimization and learning methods for sequential decision-making under uncertainty, particularly in settings with customer behavior, operational constraints, and large state-action spaces. My current applications include same-day delivery,  entrepreneurial operations, and experiential service.    
-
-## Publications During PhD
-
-**Emerging Optimization Problems for Distribution in Same-day Delivery**     
-Yuanyuan Li, Claudia Archetti, Ivana Ljubic  
-May 2025, Computers and Operations Research  
-
-**Reinforcement Learning Approaches for the Orienteering Problem with Stochastic and Dynamic Release Dates**    
-Yuanyuan Li, Claudia Archetti, Ivana Ljubic       
-July 2024, Transportation Science
-
-## Working Papers 
-
-**[Sprint or Walk? Managing Start-up Growth Before Facility Investments](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6761740)**     
-Yuanyuan Li, Riccardo Mogre, Felix Papier   
-
-## Work In Progress  
-
-**Same-day Delivery with Pickup Stations**     
-with Geoffrey Chua and Claudia Archetti     
-
-## Publications Before PhD
-
-**[Machine learning and optimization for production rescheduling in industry 4.0](https://link.springer.com/article/10.1007/s00170-020-05850-5)**    
-Y. Li, S. Carabelli, E. Fadda, D. Manerba, R. Tadei, O. Terzo    
-Oct. 2020, The International Journal of Advanced Manufacturing Technology
-
-
-**[Sustainable and De-stressed International Supply-chains Through the SYNCHRO-NET Approach](https://www.mdpi.com/2071-1050/11/4/1083)**  
-R. Giusti, C. Lorfida, Y. Li, D. Manerba, S. Musso, G. Perdoli, R. Tadei, S. Yuan  
-Feb. 2019, Sustainability (MDPI) 
-
-
-## Presentations During PhD
-
-**Sprint or Walk? Managing Startup Growth Before Facility Investments**  
-USTC, Hefei, China, August 2025
-INFORMS Annual Meeting, Seattle, United States, October 2024  
-POMS, Minneapolis, United States, April 2024    
-IESEG-ESSEC-University of Cologne Operations Research Camp, Paris, France, March 2024
-Student Research Seminar at ESSEC, December 2023  
-
-**Reinforcement Learning Approaches for the
-Orienteering Problem with Stochastic and Dynamic
-Release Dates**    
-POM China, Zhejiang, China, July 2023    
-EURO, Helsinki, Finland, July 2022  
-Student Research Seminar at ESSEC, April 2022     
-
-## Presentations Before PhD
-
-**Machine Learning application in Optimization: Job-Shop Scheduling in Industry 4.0**  
-September 2019, ODS, Genoa, Italy 
-August 2019, MIM, Berlin, Germany
-
-**[Reinforcement Learning Algorithms for Online Single-Machine Scheduling](https://ieeexplore.ieee.org/abstract/document/9222933)**   
-Y. Li, E. Fadda, D. Manerba, R. Tadei, O. Terzo   
-Sept. 2020, 2020 15th Conference on Computer Science and Information Systems (FedCSIS)
-
-**[Risk Analysis for synchro-modal freight transportation: the SYNCHRO-NET approach](https://www.researchgate.net/publication/325766304_Risk_Analysis_for_synchro-modal_freight_transportation_the_SYNCHRO-NET_approach)**  
-D. Holfeld, A. Simroth, Y. Li, D. Manerba, R. Tadei  
-June 2018, Odysseus 2018
-
-## Work Experience
-
-Mar. 2018 – Aug. 2020, **Researcher**, LINKS Foundation, Italy     
-* *Keywords: Industry 4.0, metaheuristic, optimization, scheduling, programming*  
-*Supervisor: Roberto Tadei*  
-Under the Industry 4.0 context, optimizing plastic and rubber manufacturing production lines through factory investigation, mathematical modeling, metaheuristic (Genetic Algorithm and Tabu Search) programming, and performance analysis.  
-
-* *Keywords: project management, presentation*   
-In the EU 2020 project – LEXIS (building a platform at the confluence of HPC, cloud, and Big Data), collecting lessons learned, organizing meetings, and reporting to assess the project development status. 
-
-Apr. 2017 – Oct. 2017, **Research Intern**, Fraunhofer Institute IVI, Germany   
-*Keywords: Risk analysis, prediction modeling, database, open source*  
-*Supervisor: Axel Simroth, Denise Holfeld*  
-In the EU 2020 project – SYNCHRO-NET (providing cost-effective, robust transport solutions), analyzed the potential risks in synchro-model transportation network through open source deployment, database development, feature extraction, and Monte Carlo Rollout simulation.
-
-Sept. 2016 – Jan. 2017, **Lab Assistant**, Polytechnic University of Turin, Italy  
-Student-to-student tutoring in the laboratory sessions of the database management system (DBMS) concerning technological characteristics and data analysis on commercial and open source products.
-
-## Scholarship
-
-**Compagnia di San Paolo – Politecnico Project** 
-September 2016, Polytechnic University of Turin, Italy   
-A scholarship based on academic career performance, awarded to 16 international students annually from either a Bachelor‘s or Master‘s program in Engineering or Architecture at the Polytechnic University of Turin     
-
-## Technical Skills  
-
-**Programming** Java, Python, OPL, C, SQL, HTML  
-**Software** CPLEX, Gurobi, Eclipse, MySQL  
-**Operating System** Windows, MacOS, Linux   
-
-## Languages  
-
-**Chinese** Native Speaker  
-**English** Fluent  
-**Italian** Basic
-**French** Basic
+[https://yuanyuan517.github.io/](https://yuanyuan517.github.io/)
